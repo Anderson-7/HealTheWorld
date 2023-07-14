@@ -1,0 +1,62 @@
+.navbar{
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 999;
+}
+
+#login{
+  background-color: red;
+  color: #ffff;
+  border: 0;
+  border-radius: 10px;
+}
+#login:hover{
+  background-color: #ffff;
+  color: red;
+}
+#header-banner{
+  background: linear-gradient(rgba(0, 0, 0, 0.685), rgba(0, 0, 0, 0.515)), url(images/img1.jpg);
+  padding: 10rem 0rem 10rem 0rem;
+ background-size: cover;
+ text-align: center;
+ background: ;
+}
+#header-banner h1{
+  color: #ffff;
+  
+  font-size: 6rem;
+}
+#header-banner p{
+  color: #ffff;
+ 
+  font-size: xx-large;
+}
+#header-banner button{
+  background-color: red;
+  color: #ffff;
+  border-radius: 10px;
+  border: 0;
+  padding: 5px 10px 5px 10px;
+ 
+ 
+}
+#header-banner button:hover{
+  background-color: #ffff;
+  color: red;
+}
+
+#about{
+  display: grid;
+  align-items: center;
+  
+  
+}
+/* #about h1{
+  display: block;
+}
+#about p{
+  display: block;
+  
+} */
+
